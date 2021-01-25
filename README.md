@@ -18,10 +18,10 @@ Methods Api documentation
 
 ``` http://localhost:5000/swagger ```
 
-![ApiMethods](./resounres/imagesRedme/methodsApi.jpg)
+![ApiMethods](./Resounres/ImagesRedme/methodsApi.jpg)
 
 ### Diagram
 
 Flow Api
 
-![ApiDiagram](./resounres/imagesRedme/FlowDiagramApi.jpg)
+![ApiDiagram](./Resounres/ImagesRedme/FlowDiagramApi.jpg)
