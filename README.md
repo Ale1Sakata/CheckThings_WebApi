@@ -15,14 +15,14 @@ Using simple methods Http, example: GET, POST, PUT, DELETE and a function aditio
 
 ### Swagger
 
-Methods Api documentation
+Methods Api Documentation
 
 ``` http://localhost:5000/swagger ```
 
-![ApiMethods](./Resounres/ImagesReadme/methodsApi.jpg)
+![ApiMethods](./Resources/ImagesReadme/methodsApi.jpg)
 
 ### Diagram
 
 Flow Api
 
-![ApiDiagram](./Resounres/ImagesReadme/FlowDiagramApi.jpg)
+![ApiDiagram](./Resources/ImagesReadme/FlowDiagramApi.jpg)
