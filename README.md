@@ -1,5 +1,6 @@
 # CheckThings_WebApi
-ASP.NET Core WebApi with MongoDB and Swagger
+
+## ASP.NET Core WebApi with MongoDB and Swagger
 
 In this application, I want to use the basic elements of WebApi to consume a DataBase (NoSqll).
 
@@ -18,10 +19,10 @@ Methods Api documentation
 
 ``` http://localhost:5000/swagger ```
 
-![ApiMethods](./Resounres/ImagesRedme/methodsApi.jpg)
+![ApiMethods](./Resounres/ImagesReadme/methodsApi.jpg)
 
 ### Diagram
 
 Flow Api
 
-![ApiDiagram](./Resounres/ImagesRedme/FlowDiagramApi.jpg)
+![ApiDiagram](./Resounres/ImagesReadme/FlowDiagramApi.jpg)
